@@ -1,0 +1,9 @@
+#player1_name , #player2_name{
+   width: 60%;
+}
+body{
+    background-image: url(/image/quiz_image.png);
+    background-repeat:no-repeat;
+    background-size: 100% 190%;
+    padding-top: 90px;
+}
